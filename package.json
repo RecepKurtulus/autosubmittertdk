@@ -1,0 +1,16 @@
+{
+  "name": "autosubmittdk",
+  "version": "1.0.0",
+  "description": "Auto submitter for tdk.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "tdk",
+    "auto",
+    "submit"
+  ],
+  "author": "Recep Kurtulus",
+  "license": "MIT"
+}
